@@ -31,11 +31,7 @@ Monthly trend visualizations using line and column charts
 <br>
 Matrix showing month-wise and city-wise breakdown of amount and remaining balance
 <br>
-Drill-through for deeper analysis
-<br>
 Bookmarks to toggle between chart types
-<br>
-Page navigator for easy navigation
 <br>
 Synced slicers across pages for consistent filtering
 
