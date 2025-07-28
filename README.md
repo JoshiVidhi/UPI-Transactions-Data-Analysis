@@ -2,7 +2,6 @@
 This Power BI report analyzes UPI (Unified Payments Interface) transaction data for the year 2024. It highlights key trends, transaction behaviors, and usage patterns across major Indian cities using interactive visuals, KPIs, and filters. The report provides insights into monthly transaction volumes, remaining balances, and user demographics.
 <br>
 ### Data Source
-<br>
 Excel File: UPI transaction data was imported from an Excel workbook and processed using Power BI’s Power Query Editor for cleaning and modeling.
 
 ### Key Features
